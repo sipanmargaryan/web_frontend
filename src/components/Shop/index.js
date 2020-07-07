@@ -18,9 +18,9 @@ const Shop = () => {
     dispatch(addBasket(product));
   };
 
-  useEffect(() => {
-    dispatch(getProduct())
-  },[dispatch]);
+  // useEffect(() => {
+  //   dispatch(getProduct())
+  // },[dispatch]);
 
 
   return (
