@@ -1,0 +1,9 @@
+.modal-position {
+    position: absolute !important;
+    right: 60px;
+    top: 35px;
+}
+
+.product-img {
+    width: 70px;
+}
